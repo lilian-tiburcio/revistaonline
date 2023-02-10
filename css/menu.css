@@ -1,0 +1,100 @@
+hr{
+    border: 0;
+    border-top: 1px solid rgb(212, 209, 209);
+    border-left: none;
+    border-right: none;
+ }
+
+ .cabecalho__menu{
+    font-family: 'Noto Serif Khojki', serif;
+ }
+
+ .cabecalho-menu__secundario{
+    font-family: 'Noto Serif Khojki', serif;
+ }
+
+.cabecalho-inicio{
+    font-size: 35px;
+    color: rgb(218, 112, 52);
+    margin-left: 23em;
+    text-align: left;
+    font-family:'Noto Serif Khojki', serif;
+  }
+
+.cabecalho__pesquisa {
+    border: none;
+    padding: .7em 1em;
+    width: 10vw;
+}
+
+.cabecalho__pesquisa{
+    font-size: 15px;
+    background: url("../img/ícone\ busca.png") no-repeat left;
+    margin-right: 0 50em;
+}
+
+.lista-menu {
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 100%;
+    margin: 0 48em;
+    padding-top: 3em;
+    list-style: none;
+}
+
+.cabecalho-lista a{
+    text-decoration: none;
+    color: rgb(202, 200, 200);
+}
+
+.lista-menu a:hover {
+    color: rgb(241, 162, 14);
+    text-decoration-style: solid;
+}
+
+.lista-item{
+    font-family: 'Noto Serif Khojki', serif;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 100%;
+    margin: 0 35em;
+    padding-top: 1em;
+    list-style: none;
+}
+
+.cabecalho-item a{
+text-decoration: none;
+color: gray;
+}
+
+
+.lista-item a:hover{
+    color: rgb(25, 25, 26);
+    text-decoration-style: solid;
+}
+
+.lista-menu__link-botao-entrar{
+    font-weight: 600;
+    margin-left: 8em;
+}
+
+.lista-menu__link-botao-assinar-branco{
+    background-color: rgb(241, 162, 14);
+    color: #FFFF;
+    border-radius: 2px;
+    padding: .1em 1em;
+    border: rgb(241, 162, 14) 2px solid;
+  text-decoration: none;
+}
+
+.cabecalho-item__botao a{
+    text-decoration: none;
+    color: gray;
+}
+
+

@@ -1,0 +1,10 @@
+.corpo{
+    background-color: #f0eded;
+    scroll-behavior: smooth;
+}
+
+.cabecalho__menu{
+    background-color: black;
+    width: 100%;
+}
+
