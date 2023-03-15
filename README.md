@@ -5,7 +5,7 @@
 
 <h1>Descrição do Projeto</h1>
 
-<p> Projeto realizado pensando em um site de notícias de cultura pop. O principal objetivo era construir um site funcional, caba, legível utilizando apenas os recurso de HTML e CSS</p>
+<p> Projeto realizado pensando em um site de notícias de cultura pop. Primeiro projeto realizado após a conclusão da formação no curso de HTML e CSS</p>
 
 
 <h2>Onde acessar?</h2>
